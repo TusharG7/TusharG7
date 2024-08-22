@@ -1,16 +1,27 @@
-## Hi there 👋
+==Languages & Frameworks:==
 
-<!--
-**TusharG7/TusharG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟨 JavaScript    
+🟦 TypeScript
+⚛️ ReactJS
+🌐 Next.js
+💻 ExpressJS
+🔧 Angular
+🎨 TailwindCSS
+📦 Socket.io
+🖥️ Puppeteer.js
 
-Here are some ideas to get you started:
+==Databases & Tools:==
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ MongoDB
+🔄 Server-Side Rendering (SSR)
+🔍 Caching
+🛠️ PostmanAPI
+
+==Experience:==
+
+🚀 Current Role: Full Stack Developer (July 2023 – Present, Thane :flag_india:)
+Web Scraping.
+Greenfield Project - Next.js
+Automation & Optimization: cron jobs and caching improves load time.
+
+ 📫 How to reach me: gajwanitushar1@gmail.com
