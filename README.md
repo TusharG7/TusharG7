@@ -1,25 +1,25 @@
-==Languages & Frameworks:==
+==Languages & Frameworks==
 
-🟨 JavaScript    
-🟦 TypeScript
-⚛️ ReactJS
-🌐 Next.js
-💻 ExpressJS
-🔧 Angular
-🎨 TailwindCSS
-📦 Socket.io
-🖥️ Puppeteer.js
+🟨 **JavaScript**
+🟦 **TypeScript**
+⚛️ **ReactJS**
+🌐 **Next.js**
+💻 **ExpressJS**
+🔧 **Angular**
+🎨 **TailwindCSS**
+📦 **Socket.io**
+🖥️ **Puppeteer.js**
 
-==Databases & Tools:==
+==Databases & Tools==
 
-🗄️ MongoDB
-🔄 Server-Side Rendering (SSR)
-🔍 Caching
-🛠️ PostmanAPI
+🗄️ **MongoDB**
+🔄 **Server-Side Rendering (SSR)**
+🔍 **Caching**
+🛠️ **PostmanAPI**
 
-==Experience:==
+==Experience==
 
-🚀 Current Role: Full Stack Developer (July 2023 – Present, Thane :flag_india:)
+🚀 Current Role: # Full Stack Developer (July 2023 – Present, Thane :flag_india:)
 Web Scraping.
 Greenfield Project - Next.js
 Automation & Optimization: cron jobs and caching improves load time.
