@@ -22,9 +22,9 @@
 **Current Role: Full Stack Developer**  
 *July 2023 – Present | Thane 🇮🇳*
 
-- **Web Scraping**: Enhanced affiliate processes with Angular and Puppeteer.
-- **Greenfield Project**: Developed a new full-stack project with Next.js.
-- **Automation & Optimization**: Implemented cron jobs and caching to improve load times on [ProductRaters.in](https://productraters.in), achieving a 30% speed boost.
+- **Web Scraping**
+- **Greenfield Next.js Project**
+- **Cron jobs and Caching** 
 
 ## 📫 How to Reach Me
 
