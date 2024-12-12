@@ -26,6 +26,3 @@
 - **Greenfield Next.js Project**
 - **Cron jobs and Caching** 
 
-## 📫 How to Reach Me
-
-- Email: [gajwanitushar1@gmail.com](mailto:gajwanitushar1@gmail.com)
