@@ -26,9 +26,13 @@
 Pangolin Marketing – March 2025 – Present | Kochi, India 🇮🇳
 
 Solely building and scaling a client project from scratch using:    
+
   Next.js, TailwindCSS, shadcn/ui
+
   NeonDB with Drizzle ORM
+
   Cursor AI
+
   Responsible for entire stack — from API integrations to UI/UX
 
 ----------------------------------------------------------------
